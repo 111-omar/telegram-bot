@@ -1,1 +1,3 @@
-# telegram-bot
+# telegram-bot#
+
+بوت تيليجرام بسيط مبرمج بلغة Python ويعمل بشكل دائم على منصة Render مجانًا.
